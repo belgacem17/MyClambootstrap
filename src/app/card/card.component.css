@@ -1,0 +1,28 @@
+.ph3 {
+    font-family: "Arial Verdana", sans-serif;
+    color: rgb(165, 14, 14);
+    font-size: 16px;
+}
+
+.b3 {
+    background-image: url('../../assets/images/btn_2_normal@1x.png');
+    -moz-border-radius: 6px;
+    -webkit-border-radius: 6px;
+    border-radius: 6px;
+    display: inline-block;
+    cursor: pointer;
+    color: #ffffff;
+    font-family: Arial;
+    font-size: 15px;
+    padding: 11px 53px;
+    text-decoration: none;
+    background-size: 100% 100%;
+}
+
+
+/* slick */
+
+.slick-slider {
+    width: 90%;
+    margin: auto;
+}

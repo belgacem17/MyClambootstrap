@@ -1,0 +1,28 @@
+header {
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+.p1 {
+    width: 100%;
+    height: auto;
+    background-image: url('../../assets/images/slider_image_home@1x.png');
+    background-size: 100% 100%;
+}
+
+.items {
+    font-size: 13px;
+}
+
+.ph1 {
+    padding-top: 30px;
+    font-family: "Arial Verdana", sans-serif;
+    color: azure;
+}
+
+.ph2 {
+    font-family: "Arial Verdana", sans-serif;
+    color: antiquewhite;
+    font-size: 13px;
+    width: 400px;
+}

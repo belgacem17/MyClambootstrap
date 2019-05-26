@@ -1,0 +1,138 @@
+.slidecapital {
+    background-image: url('../../assets/images/recomended_background_image@1x.png');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 100%;
+    height: 400px;
+}
+
+.c {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    letter-spacing: 0.2px;
+    word-spacing: 0px;
+    color: #FFFFFF;
+    font-weight: 700;
+    text-decoration: none solid rgb(68, 68, 68);
+    font-style: normal;
+    font-variant: normal;
+    text-transform: uppercase;
+}
+
+.ph2 {
+    font-family: "Arial Verdana", sans-serif;
+    color: antiquewhite;
+    font-size: 13px;
+    width: 400px;
+}
+
+.ph3 {
+    font-family: "Arial Verdana", sans-serif;
+    color: rgb(165, 14, 14);
+    font-size: 16px;
+}
+
+.b3 {
+    background-image: url('../../assets/images/btn_2_normal@1x.png');
+    -moz-border-radius: 6px;
+    -webkit-border-radius: 6px;
+    border-radius: 6px;
+    display: inline-block;
+    cursor: pointer;
+    color: #ffffff;
+    font-family: Arial;
+    font-size: 15px;
+    padding: 11px 53px;
+    text-decoration: none;
+    background-size: 100% 100%;
+}
+
+.ph4 {
+    width: 30%;
+    height: auto;
+    color: azure;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    font-size: 26px;
+}
+
+.bntp2 {
+    background-image: url('../../assets/images/btn_2_normal@1x.png');
+    background-repeat: no-repeat;
+    height: 100px;
+}
+
+.images {
+    padding-top: 10px;
+    margin-bottom: 0px;
+}
+
+.myButton {
+    -moz-box-shadow: inset 0px 1px 3px 0px #91b8b3;
+    -webkit-box-shadow: inset 0px 1px 3px 0px #91b8b3;
+    box-shadow: inset 0px 1px 3px 0px #91b8b3;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    border: 1px solid #566963;
+    display: inline-block;
+    cursor: pointer;
+    color: #ffffff;
+    font-family: Arial;
+    font-size: 15px;
+    font-weight: bold;
+    text-decoration: none;
+    text-shadow: 0px -1px 0px #2b665e;
+    background-image: url('../../assets/images/ic_available_app_store_norml@1x.png');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 130px;
+}
+
+.myButton:hover {
+    background-image: url('../../assets/images/ic_available_app_store_pressed@1x.png');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.myButton:active {
+    position: relative;
+    top: 1px;
+}
+
+.Scard {
+    height: 20%;
+}
+
+.myButton1 {
+    -moz-box-shadow: inset 0px 1px 3px 0px #91b8b3;
+    -webkit-box-shadow: inset 0px 1px 3px 0px #91b8b3;
+    box-shadow: inset 0px 1px 3px 0px #91b8b3;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    border: 1px solid #566963;
+    display: inline-block;
+    cursor: pointer;
+    color: #ffffff;
+    font-family: Arial;
+    font-size: 15px;
+    font-weight: bold;
+    text-decoration: none;
+    text-shadow: 0px -1px 0px #2b665e;
+    background-image: url('../../assets/images/ic_available_google_play_normal@1x.png');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 130px;
+}
+
+.myButton1:hover {
+    background-image: url('../../assets/images/ic_available_google_play_pressed@1x.png');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.myButton1:active {
+    position: relative;
+    top: 1px;
+}
